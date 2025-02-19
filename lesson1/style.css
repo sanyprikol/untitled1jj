@@ -1,0 +1,19 @@
+h1 {
+    background:blue ;
+    color:goldenrod ;
+}
+
+h2 {
+    background:seagreen ;
+    color:red ;
+}
+
+p {
+    background:silver ;
+    color: darkred;
+}
+
+li {
+    background: fuchsia;
+    color:chocolate ;
+}
