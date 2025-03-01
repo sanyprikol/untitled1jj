@@ -1,0 +1,72 @@
+#father {
+    height: 600px;
+    width: 800px;
+    background: gold;
+
+
+}
+#sun1 {
+    height:32% ;
+    width:100% ;
+    background: seagreen;
+    border: 1px solid black;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+}
+#sun2 {
+
+    height:32% ;
+    width:100% ;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 3%;
+    box-sizing: border-box;
+
+}
+#sun3 {
+    height: 32%;
+    width:100% ;
+    background: seagreen;
+    border: 1px solid black;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3%;
+    box-sizing: border-box;
+
+
+}
+#num1 {
+    background: red;
+    height: 100%;
+    width: 32%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+    border-radius: 8px;
+}
+#num2 {
+    background: darkgoldenrod;
+    height: 100%;
+    width: 32%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+    border-radius: 8px;
+}
+#num3 {
+    background: red;
+    height: 100%;
+    width: 32%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+    border-radius: 8px;
+}
